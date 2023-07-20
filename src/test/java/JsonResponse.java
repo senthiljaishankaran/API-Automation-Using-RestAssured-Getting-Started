@@ -24,5 +24,4 @@ public class JsonResponse {
         System.out.println(name);
     }
 }
-
 }
